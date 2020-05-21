@@ -1,0 +1,13 @@
+nav.top{
+	background-color: #4acbd6!important;
+}
+.btn-braco {
+	color: white;
+}
+.btn-braco:hover {
+	color: black;
+}
+.nav-item:hover {
+  background-color: #4acbd6;
+}
+

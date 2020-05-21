@@ -1,0 +1,61 @@
+div.topo{
+	height: 110px;
+	background-color: #4acbd6;
+}
+div.toposistema{
+	height: 80px;
+	background-color: #4acbd6;
+}
+
+div.topo h1{
+	color: white;
+	font-weight: bold;
+}
+div.topo p{
+	color: white;
+	margin-top: -5px;
+	font-size: 20px;
+}
+div.cadeado{
+	margin-top: 10px;
+}
+div.login{
+	margin-top: 300px;
+}
+input{
+	margin-bottom: 20px;
+	border-radius: 5px;
+	padding: 8px 40px;
+	border: solid 0.5px;
+	border-color: #a7a9ac;
+	background-color: transparent;
+}
+input.btn{
+	padding: 8px 95px;
+	background-color: #4acbd6;
+	border-color: #4acbd6;
+	color: white;
+	border-radius: 7px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: -10px;
+}
+div.group i{
+	margin-right: -30px;
+}
+div.teste-navbar{
+	background-color: red;
+}
+div.top{
+	margin-top: 80px;
+	height: 700px;
+	margin-left: 350px;
+}
+.fa-trash-alt:before {
+    content: "\f2ed";
+    color: red;
+}
+.fa-pencil-alt:before {
+    content: "\f303";
+    color: orange;
+}
